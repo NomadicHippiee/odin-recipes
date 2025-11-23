@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Science+Gothic:wght@100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+
+    margin: 15px auto; 
+    padding: 0;
+    width: 600px;
+    background-color: #392260;
+    color: #f17d5c;
+}
+
+h1 {
+    font-family: "Science Gothic", sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    text-align: center;
+}
+
+h2 { 
+    font-family: "Science Gothic", sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+h3 { 
+    font-family: "Science Gothic", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 0px 15px;
+    width: 570px;
+}
+
+li {
+    margin: 20px auto;
+    width: 560px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+strong {
+        font-family: "Oswald", sans-serif;
+    font-weight: 600;
+
+}
+footer {
+    margin: 0px auto;
+}
+button {
+    display: block;
+    width: 60px;
+    margin: 10px auto;
+}
